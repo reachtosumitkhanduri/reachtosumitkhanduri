@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sumit
+- 👀 I’m interested in Tech & Coding
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me https://www.linkedin.com/in/sumit-khanduri-72b744238/
