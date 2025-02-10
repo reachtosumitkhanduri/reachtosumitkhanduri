@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumit
 - 👀 I’m interested in Tech & Coding
-- 🌱 I’m a passionate frontend develope
+- 🌱 I’m a passionate frontend developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me https://www.linkedin.com/in/reachtosumitkhanduri/
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
